@@ -1,0 +1,39 @@
+{
+  "itemGroup.thermal.blocks": "§fThermal Series: Blocks",
+  "itemGroup.thermal.devices": "§fThermal Series: Machinery",
+  "itemGroup.thermal.foods": "§fThermal Series: Crops and Foods",
+  "itemGroup.thermal.items": "§fThermal Series: Items",
+  "itemGroup.thermal.resources": "§fThermal Series: Resources",
+  "itemGroup.thermal.tools": "§fThermal Series: Tools",
+
+  "block.thermal.energy_duct": "§fFluxduct",
+  "block.thermal.fluid_duct": "§fFluiduct",
+
+  "block.thermal.energy_distributor": "§fRF Distribution Interface",
+  "block.thermal.fluid_distributor": "§fFluid Distribution Interface",
+
+  "block.thermal.item_buffer": "§fLogistical Item Buffer",
+
+  "block.thermal.dynamo_compression": "§fCompression Dynamo",
+  "block.thermal.dynamo_disenchantment": "§fDisenchantment Dynamo",
+  "block.thermal.dynamo_gourmand": "§fGourmand Dynamo",
+  "block.thermal.dynamo_lapidary": "§fLapidary Dynamo",
+  "block.thermal.dynamo_magmatic": "§fMagmatic Dynamo",
+  "block.thermal.dynamo_numismatic": "§fNumismatic Dynamo",
+  "block.thermal.dynamo_stirling": "§fStirling Dynamo",
+
+  "block.thermal.machine_bottler": "§fFluid Encapsulator",
+  "block.thermal.machine_brewer": "§fAlchemical Imbuer",
+  "block.thermal.machine_centrifuge": "§fCentrifugal Separator",
+  "block.thermal.machine_chiller": "§fBlast Chiller",
+  "block.thermal.machine_crafter": "§fSequential Fabricator",
+  "block.thermal.machine_crucible": "§fMagma Crucible",
+  "block.thermal.machine_furnace": "§fRedstone Furnace",
+  "block.thermal.machine_insolator": "§fPhytogenic Insolator",
+  "block.thermal.machine_press": "§fMultiservo Press",
+  "block.thermal.machine_pulverizer": "§fPulverizer",
+  "block.thermal.machine_pyrolyzer": "§fPyrolyzer",
+  "block.thermal.machine_refinery": "§fFractionating Still",
+  "block.thermal.machine_sawmill": "§fSawmill",
+  "block.thermal.machine_smelter": "§fInduction Smelter"
+}
